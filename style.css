@@ -7,3 +7,7 @@ div.header {
     height: 100px;
     background-color: black;
 }
+
+div.header * {
+    color: white;
+}
