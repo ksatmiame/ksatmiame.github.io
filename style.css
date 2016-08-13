@@ -8,6 +8,7 @@ div.header {
     color: white;
     position: relative;
     text-align: center;
+    margin-bottom: 1em;
 }
 
 div.header > div#header-title {
